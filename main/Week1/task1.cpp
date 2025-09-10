@@ -1,0 +1,18 @@
+#include <iostream>
+
+int main()
+{
+    std::cout << "Iam Learning Programming\nWith\nElzero\nWeb\nSchool\n<3";
+    return 0;
+}
+
+/*
+the output
+٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠٠
+Iam Learning Programming
+With
+Elzero
+Web
+School
+<3
+*/
